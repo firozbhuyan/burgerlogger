@@ -28,3 +28,4 @@ A burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
 2. Run the following command to start the app:
 
 `node server`
+3. MySql Host: https://remotemysql.com/
